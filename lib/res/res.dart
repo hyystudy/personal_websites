@@ -1,0 +1,1 @@
+export 'string_res.dart';//字符串资源
